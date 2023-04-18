@@ -1,0 +1,19 @@
+{
+  "name": "at-preparing-an-application-for-deployment",
+  "version": "1.0.0",
+  "description": "REST-Rant is an app where users can review restaurants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NarrowCoconut/AT-Preparing-an-Application-for-Deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NarrowCoconut/AT-Preparing-an-Application-for-Deployment/issues"
+  },
+  "homepage": "https://github.com/NarrowCoconut/AT-Preparing-an-Application-for-Deployment#readme"
+}
