@@ -10,8 +10,8 @@ workflows:
       - eb/deploy:
           app-dir: ~/project/backend
           context: aws-creds
-          application-name: prep
-          environment-name: Prep-env
+          application-name: RestRant
+          environment-name: RestRant-env
           filters:
             branches:
               only:
